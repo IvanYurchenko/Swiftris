@@ -202,6 +202,7 @@
 				TargetAttributes = {
 					870050E51E806EA70082D258 = {
 						CreatedOnToolsVersion = 8.2.1;
+						DevelopmentTeam = H35E6P5Z94;
 						ProvisioningStyle = Automatic;
 					};
 					870050FF1E806EA70082D258 = {
@@ -422,6 +423,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H35E6P5Z94;
 				INFOPLIST_FILE = Swiftris/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = bloc.io.Swiftris;
@@ -434,6 +436,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = H35E6P5Z94;
 				INFOPLIST_FILE = Swiftris/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = bloc.io.Swiftris;
